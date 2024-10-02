@@ -1,10 +1,8 @@
 
-<h1 align="center">Hi 👋, I'm Kunj Chandak</h1>
+
 <h3 align="center">Turning coffee into code, one line at a time</h3>
 
 - 🌱 I’m currently learning **Web3 & Cloud**
-
-- 📫 How to reach me **kunjchandak05@gmail.com**
 
 - ⚡ Fun fact **I am a cricketer and chess player & I prefer dark mode while coding**
 
