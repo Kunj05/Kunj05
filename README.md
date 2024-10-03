@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kunj Chandak </h1>
 <h3 align="center">A Pre-final year FullStack Web Developer </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kunj05&label=Profile%20views&color=0e75b6&style=flat" alt="Kunj05" /> </p>
-
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kunj05" alt="Kunj05" /></a> </p>
 
-- 🌱 I’m currently learning **Nextjs , AWS , DSA and CS Funda**
+- 🌱 I’m currently learning **Nextjs , AWS , DSA and CS Funda **
 
 - 💬 Ask me about **Web Development , Backend and Cloud **
 
@@ -14,11 +12,11 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kunj-chandak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laxman-panjalingam-4a5163260" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/laxmanp_090404" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="laxmanp_090404" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/laxman_p2022cse" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="laxman_p2022cse" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/laxmanpanjalingam2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="laxmanpanjalingam2004" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/laxmanpanjalingam2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="laxmanpanjalingam2004" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@laxmanpanjalingam2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@laxmanpanjalingam2004" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/kunj_05" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="laxmanp_090404" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="kc05" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kc05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/kc05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="kc05" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@kc05" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
