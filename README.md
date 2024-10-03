@@ -1,13 +1,16 @@
-<h1 align="center">Hi 👋, I'm Kunj Chandak </h1>
-<h3 align="center">A Pre-final year FullStack Web Developer </h3>
+<h1 align="center">Hi 👋, I'm Kunj Chandak</h1>
+<h3 align="center">A Pre-final year FullStack Web Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kunj05" alt="Kunj05" /></a> </p>
+<p align="left"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Kunj05" alt="Kunj05" />
+  </a> 
+</p>
 
-- 🌱 I’m currently learning **Nextjs , AWS , DSA and CS Funda **
+- 🌱 I’m currently learning **Next.js, AWS, DSA, and CS Fundamentals**
+- 💬 Ask me about **Web Development, Backend, and Cloud**
+- 📫 How to reach me: **kunjchandak05@gmail.com**
 
-- 💬 Ask me about **Web Development , Backend and Cloud **
-
-- 📫 How to reach me **kunjchandak05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
