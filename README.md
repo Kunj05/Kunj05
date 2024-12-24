@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kunj Chandak</h1>
 <h3 align="center">A Pre-final year FullStack Web Developer</h3>
-
+ 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Kunj05" alt="Kunj05" />
