@@ -7,7 +7,7 @@
   </a> 
 </p>
 
-- 🌱 I’m currently learning **Next.js, AWS, DSA, and CS Fundamentals**
+- 🌱 I’m currently learning **Next.js, AWS, DSA, and CS Fundamental**
 - 💬 Ask me about **Web Development, Backend, and Cloud**
 - 📫 How to reach me: **kunjchandak05@gmail.com**
 
