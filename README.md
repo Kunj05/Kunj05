@@ -29,4 +29,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunj05&show_icons=true&locale=en" alt="Kunj05" /></p>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=kunj05" alt="GitHub Streak" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kunj05" alt="GitHub Streak" /></p>
