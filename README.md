@@ -30,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Kunj05&show_icons=true&locale=en" alt="Kunj05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=kunj05" alt="GitHub Streak" /></p>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
